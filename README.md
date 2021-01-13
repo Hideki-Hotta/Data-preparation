@@ -11,7 +11,7 @@ Lpデータ
 1. 全サンプルのLpを１次元配列Lp(dtype:float)に格納し.npy形式で保存
 
 Lデータ
-1. 全サンプルのLを１次元配列Lp(dtype:float)に格納し.npy形式で保存
+1. 全サンプルのLを１次元配列L(dtype:float)に格納し.npy形式で保存
 
 備考
 ・tiffファイルの16bit→8bitはコードが分からなかったのでimageJのマクロ(ijm.py)で別途実施
